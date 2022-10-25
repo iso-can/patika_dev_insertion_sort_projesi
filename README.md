@@ -20,9 +20,11 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 12-) 2,16,18,6,22,27|  
 13-) 2,16,6,18,22,27|  
 14-) 2,6,16,18,22,27| ->Dizi küçükten büyüğe başarıyla sıralandı.  
+  
 Soru-2) Big-O gösterimini yazınız.  
 
 O(N^2)  
+  
 Soru-3) Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.  
 
 Worst Case:  
