@@ -1,5 +1,5 @@
 # patika_dev_insertion_sort_projesi
-##Patika.dev ##https://app.patika.dev/pmerve
+  
 Patika.dev'de veri yapıları kursu için yapılan proje  
 
 #Proje 1
